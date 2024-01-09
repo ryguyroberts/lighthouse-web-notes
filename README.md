@@ -1,4 +1,4 @@
-# Ryan Robertson's Notes
+# Ryan R's Notes
 ## Table of Contents
 ## Summary
 This Repo contains all the notes taken by [Ryan R](https://github.com/ryguyroberts) for the [LightHouse Labs](https://www.lighthouselabs.ca/) Web Dev program.
