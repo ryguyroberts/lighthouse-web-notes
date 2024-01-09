@@ -17,11 +17,7 @@ const twoFace = function(){
 // Expected output:
 // Two-Face flips a coin: (Head's) or (Tail's)
 ```
-
 ## Command Line Args
-<<<<<<< HEAD
-
-
 
 ## ES6 Template Literals
 
@@ -32,14 +28,3 @@ const twoFace = function(){
 ## Object
 
 ## Callback
-=======
-
-}
-
-console.log(sumTheNums(slicedArgs[0],slicedArgs[1]));
-// Expected output: The sum of the two parameters
-```
-
-process.argv
-## ES6 Template Literals
->>>>>>> 440fdb9723c36f065034ad974157b5a7430a701a
