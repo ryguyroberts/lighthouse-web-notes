@@ -35,12 +35,12 @@ const slicedArgs = args.slice(2);
 // function adds the nums
 function sumTheNums(num1, num2) {
   //add sums but change to ints instead of strings.
-  let sum = ((Number(slicedArgs[0])) + Number(slicedArgs[0]));
+  let sum = ((Number(slicedArgs[0])) + Number(slicedArgs[1]));
   return sum;
 }
 
 console.log(sumTheNums(slicedArgs[0],slicedArgs[1]));
-// Expected output: The of the two parameters
+// Expected output: The sum of the two parameters
 ```
 
 process.argv
