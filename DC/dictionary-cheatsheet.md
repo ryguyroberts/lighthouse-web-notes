@@ -19,29 +19,15 @@ const twoFace = function(){
 ```
 
 ## Command Line Args
-A way to parse input from the CLI, using a prenamed Array.
-```javascript
-// Prenamed array called process.argv takes values from CLI parameters.
 
-// Example
-// Running your file with params.
-~/node sum.js -parameter1 -parameter2
 
-// declare Variables
-const args = process.argv;
-// Get rid of first two. First in index are node and file location(s)
-const slicedArgs = args.slice(2);
 
-// function adds the nums
-function sumTheNums(num1, num2) {
-  //add sums but change to ints instead of strings.
-  let sum = ((Number(slicedArgs[0])) + Number(slicedArgs[0]));
-  return sum;
-}
-
-console.log(sumTheNums(slicedArgs[0],slicedArgs[1]));
-// Expected output: The of the two parameters
-```
-
-process.argv
 ## ES6 Template Literals
+
+## Function Expression
+
+## Function Definition
+
+## Object
+
+## Callback
