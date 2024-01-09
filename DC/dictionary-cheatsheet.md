@@ -35,7 +35,7 @@ const slicedArgs = args.slice(2);
 // function adds the nums
 function sumTheNums(num1, num2) {
   //add sums but change to ints instead of strings.
-  let sum = ((Number(num1)) + Number(num2));
+  let sum = ((Number(slicedArgs[0])) + Number(slicedArgs[0]));
   return sum;
 }
 
